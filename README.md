@@ -7,3 +7,4 @@ Dimensionality Reduction:
 - https://arxiv.org/pdf/1404.1100.pdf
 - https://arxiv.org/pdf/1404.2986.pdf
 - http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/
+- https://arxiv.org/abs/1803.03635
