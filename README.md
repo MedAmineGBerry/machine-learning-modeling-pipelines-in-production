@@ -8,3 +8,9 @@ Dimensionality Reduction:
 - https://arxiv.org/pdf/1404.2986.pdf
 - http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/
 - https://arxiv.org/abs/1803.03635
+
+High-Performance Modeling:
+- https://www.tensorflow.org/guide/distributed_training
+- https://arxiv.org/abs/1806.03377
+- https://ai.googleblog.com/2019/03/introducing-gpipe-open-source-library.html
+- https://arxiv.org/abs/1811.06965
