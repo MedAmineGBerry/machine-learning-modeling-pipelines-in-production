@@ -18,3 +18,15 @@ High-Performance Modeling:
 Knowledge Distillation:
 - https://arxiv.org/pdf/1503.02531.pdf
 - https://arxiv.org/pdf/1910.08381.pdf
+
+Model Analysis Overview:
+- https://blog.tensorflow.org/2019/12/introducing-tensorboarddev-new-way-to.html
+
+Advanced Model Analysis And Debugging:
+- https://blog.tensorflow.org/2018/03/introducing-tensorflow-model-analysis.html
+- https://www.tensorflow.org/tfx/model_analysis/architecture
+- https://arxiv.org/abs/1412.6572
+- https://github.com/SauceCat/PDPbox
+- https://github.com/AustinRochford/PyCEbox
+- https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/adversarial_fgsm.ipynb
+- 
