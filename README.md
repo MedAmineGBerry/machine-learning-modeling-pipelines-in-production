@@ -14,3 +14,7 @@ High-Performance Modeling:
 - https://arxiv.org/abs/1806.03377
 - https://ai.googleblog.com/2019/03/introducing-gpipe-open-source-library.html
 - https://arxiv.org/abs/1811.06965
+
+Knowledge Distillation:
+- https://arxiv.org/pdf/1503.02531.pdf
+- https://arxiv.org/pdf/1910.08381.pdf
