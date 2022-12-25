@@ -29,4 +29,14 @@ Advanced Model Analysis And Debugging:
 - https://github.com/SauceCat/PDPbox
 - https://github.com/AustinRochford/PyCEbox
 - https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/adversarial_fgsm.ipynb
-- 
+- https://www.statology.org/durbin-watson-test-python/
+- https://www.tensorflow.org/responsible_ai/fairness_indicators/guide
+- https://arxiv.org/pdf/1904.13341.pdf
+- https://github.com/cosmicBboy/themis-ml
+- http://aif360.mybluemix.net/
+- https://www.tensorflow.org/responsible_ai/model_remediation
+- https://modelcards.withgoogle.com/about
+
+
+
+
