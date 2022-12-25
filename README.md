@@ -36,7 +36,12 @@ Advanced Model Analysis And Debugging:
 - http://aif360.mybluemix.net/
 - https://www.tensorflow.org/responsible_ai/model_remediation
 - https://modelcards.withgoogle.com/about
-
+- https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/
+- https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/
+- https://arxiv.org/pdf/1704.00023.pdf
+- https://cloud.google.com/ai-platform/prediction/docs/continuous-evaluation
+- https://aws.amazon.com/fr/sagemaker/model-monitor/
+- https://learn.microsoft.com/en-us/azure/machine-learning/v1/how-to-monitor-datasets?tabs=python
 
 
 
